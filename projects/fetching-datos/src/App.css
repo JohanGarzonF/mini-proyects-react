@@ -1,0 +1,9 @@
+main {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+main img {
+  width: 320px;
+}
